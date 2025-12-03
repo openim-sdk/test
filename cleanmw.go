@@ -1,4 +1,4 @@
-package openim_sdk
+package openim_test
 
 import (
     "context"

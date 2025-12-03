@@ -1,4 +1,4 @@
-module github.com/openim-sdk/openim-sdk
+module github.com/openim-sdk/test
 
 go 1.20
 
